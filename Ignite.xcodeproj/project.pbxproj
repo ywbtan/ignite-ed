@@ -7,6 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4D7C388325C5A135002CA363 /* SunCardController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D7C388225C5A135002CA363 /* SunCardController.swift */; };
+		4D7C389D25C68AFE002CA363 /* suncard.png in Resources */ = {isa = PBXBuildFile; fileRef = 4D7C389C25C68AFB002CA363 /* suncard.png */; };
+		4D7C38A325C68BEE002CA363 /* mooncard.png in Resources */ = {isa = PBXBuildFile; fileRef = 4D7C38A225C68BEB002CA363 /* mooncard.png */; };
+		4D7C38A725C68BF1002CA363 /* earthcard.png in Resources */ = {isa = PBXBuildFile; fileRef = 4D7C38A125C68BE4002CA363 /* earthcard.png */; };
+		4D7C38B725C68F36002CA363 /* MoonCardController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D7C38B625C68F36002CA363 /* MoonCardController.swift */; };
+		4D7C38BC25C68F58002CA363 /* EarthCardController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D7C38BB25C68F58002CA363 /* EarthCardController.swift */; };
 		4D7C7ACD25C55D6200945137 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D7C7ACC25C55D6200945137 /* AppDelegate.swift */; };
 		4D7C7ACF25C55D6200945137 /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = 4D7C7ACE25C55D6200945137 /* art.scnassets */; };
 		4D7C7AD125C55D6200945137 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D7C7AD025C55D6200945137 /* ViewController.swift */; };
@@ -15,6 +21,18 @@
 		4D7C7AD925C55D6500945137 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4D7C7AD725C55D6500945137 /* LaunchScreen.storyboard */; };
 		4D7C7AE425C55D6600945137 /* IgniteTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D7C7AE325C55D6600945137 /* IgniteTests.swift */; };
 		4D7C7AEF25C55D6600945137 /* IgniteUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D7C7AEE25C55D6600945137 /* IgniteUITests.swift */; };
+		B8E77F4825C69ED200465849 /* Gaegu-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B8E77F3E25C69ED100465849 /* Gaegu-Light.ttf */; };
+		B8E77F4925C69ED200465849 /* sunandmoon.png in Resources */ = {isa = PBXBuildFile; fileRef = B8E77F3F25C69ED100465849 /* sunandmoon.png */; };
+		B8E77F4A25C69ED200465849 /* Gaegu-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B8E77F4025C69ED100465849 /* Gaegu-Regular.ttf */; };
+		B8E77F4B25C69ED200465849 /* Gaegu-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B8E77F4125C69ED100465849 /* Gaegu-Bold.ttf */; };
+		B8E77F4C25C69ED200465849 /* Vector.png in Resources */ = {isa = PBXBuildFile; fileRef = B8E77F4225C69ED100465849 /* Vector.png */; };
+		B8E77F4D25C69ED200465849 /* brainlogo.png in Resources */ = {isa = PBXBuildFile; fileRef = B8E77F4325C69ED100465849 /* brainlogo.png */; };
+		B8E77F4E25C69ED200465849 /* globe.png in Resources */ = {isa = PBXBuildFile; fileRef = B8E77F4425C69ED100465849 /* globe.png */; };
+		B8E77F4F25C69ED200465849 /* Poppins-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B8E77F4525C69ED100465849 /* Poppins-Regular.ttf */; };
+		B8E77F5025C69ED200465849 /* Poppins-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B8E77F4625C69ED100465849 /* Poppins-Bold.ttf */; };
+		B8E77F5125C69ED200465849 /* Poppins-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B8E77F4725C69ED100465849 /* Poppins-SemiBold.ttf */; };
+		B8E77F5625C6A04500465849 /* StartViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8E77F5525C6A04500465849 /* StartViewController.swift */; };
+		B8E77F5B25C6A0BD00465849 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8E77F5A25C6A0BD00465849 /* HomeViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +53,12 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4D7C388225C5A135002CA363 /* SunCardController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SunCardController.swift; sourceTree = "<group>"; };
+		4D7C389C25C68AFB002CA363 /* suncard.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = suncard.png; sourceTree = "<group>"; };
+		4D7C38A125C68BE4002CA363 /* earthcard.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = earthcard.png; sourceTree = "<group>"; };
+		4D7C38A225C68BEB002CA363 /* mooncard.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mooncard.png; sourceTree = "<group>"; };
+		4D7C38B625C68F36002CA363 /* MoonCardController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoonCardController.swift; sourceTree = "<group>"; };
+		4D7C38BB25C68F58002CA363 /* EarthCardController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EarthCardController.swift; sourceTree = "<group>"; };
 		4D7C7AC925C55D6200945137 /* Ignite.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Ignite.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4D7C7ACC25C55D6200945137 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4D7C7ACE25C55D6200945137 /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
@@ -49,6 +73,18 @@
 		4D7C7AEA25C55D6600945137 /* IgniteUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = IgniteUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4D7C7AEE25C55D6600945137 /* IgniteUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IgniteUITests.swift; sourceTree = "<group>"; };
 		4D7C7AF025C55D6600945137 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B8E77F3E25C69ED100465849 /* Gaegu-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Gaegu-Light.ttf"; sourceTree = "<group>"; };
+		B8E77F3F25C69ED100465849 /* sunandmoon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sunandmoon.png; sourceTree = "<group>"; };
+		B8E77F4025C69ED100465849 /* Gaegu-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Gaegu-Regular.ttf"; sourceTree = "<group>"; };
+		B8E77F4125C69ED100465849 /* Gaegu-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Gaegu-Bold.ttf"; sourceTree = "<group>"; };
+		B8E77F4225C69ED100465849 /* Vector.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Vector.png; sourceTree = "<group>"; };
+		B8E77F4325C69ED100465849 /* brainlogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = brainlogo.png; sourceTree = "<group>"; };
+		B8E77F4425C69ED100465849 /* globe.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = globe.png; sourceTree = "<group>"; };
+		B8E77F4525C69ED100465849 /* Poppins-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Regular.ttf"; sourceTree = "<group>"; };
+		B8E77F4625C69ED100465849 /* Poppins-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Bold.ttf"; sourceTree = "<group>"; };
+		B8E77F4725C69ED100465849 /* Poppins-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-SemiBold.ttf"; sourceTree = "<group>"; };
+		B8E77F5525C6A04500465849 /* StartViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartViewController.swift; sourceTree = "<group>"; };
+		B8E77F5A25C6A0BD00465849 /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,13 +135,19 @@
 		4D7C7ACB25C55D6200945137 /* Ignite */ = {
 			isa = PBXGroup;
 			children = (
+				B8E77F3D25C69ED100465849 /* Assets */,
 				4D7C7ACC25C55D6200945137 /* AppDelegate.swift */,
 				4D7C7ACE25C55D6200945137 /* art.scnassets */,
 				4D7C7AD025C55D6200945137 /* ViewController.swift */,
+				B8E77F5525C6A04500465849 /* StartViewController.swift */,
 				4D7C7AD225C55D6200945137 /* Main.storyboard */,
+				4D7C38BB25C68F58002CA363 /* EarthCardController.swift */,
+				4D7C38B625C68F36002CA363 /* MoonCardController.swift */,
+				4D7C388225C5A135002CA363 /* SunCardController.swift */,
 				4D7C7AD525C55D6500945137 /* Assets.xcassets */,
 				4D7C7AD725C55D6500945137 /* LaunchScreen.storyboard */,
 				4D7C7ADA25C55D6500945137 /* Info.plist */,
+				B8E77F5A25C6A0BD00465849 /* HomeViewController.swift */,
 			);
 			path = Ignite;
 			sourceTree = "<group>";
@@ -126,6 +168,26 @@
 				4D7C7AF025C55D6600945137 /* Info.plist */,
 			);
 			path = IgniteUITests;
+			sourceTree = "<group>";
+		};
+		B8E77F3D25C69ED100465849 /* Assets */ = {
+			isa = PBXGroup;
+			children = (
+				B8E77F3E25C69ED100465849 /* Gaegu-Light.ttf */,
+				B8E77F3F25C69ED100465849 /* sunandmoon.png */,
+				B8E77F4025C69ED100465849 /* Gaegu-Regular.ttf */,
+				B8E77F4125C69ED100465849 /* Gaegu-Bold.ttf */,
+				B8E77F4225C69ED100465849 /* Vector.png */,
+				B8E77F4325C69ED100465849 /* brainlogo.png */,
+				B8E77F4425C69ED100465849 /* globe.png */,
+				B8E77F4525C69ED100465849 /* Poppins-Regular.ttf */,
+				B8E77F4625C69ED100465849 /* Poppins-Bold.ttf */,
+				4D7C389C25C68AFB002CA363 /* suncard.png */,
+				4D7C38A125C68BE4002CA363 /* earthcard.png */,
+				4D7C38A225C68BEB002CA363 /* mooncard.png */,
+				B8E77F4725C69ED100465849 /* Poppins-SemiBold.ttf */,
+			);
+			path = Assets;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -231,10 +293,23 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B8E77F4D25C69ED200465849 /* brainlogo.png in Resources */,
+				B8E77F4E25C69ED200465849 /* globe.png in Resources */,
 				4D7C7ACF25C55D6200945137 /* art.scnassets in Resources */,
+				B8E77F5025C69ED200465849 /* Poppins-Bold.ttf in Resources */,
+				B8E77F4825C69ED200465849 /* Gaegu-Light.ttf in Resources */,
+				4D7C38A725C68BF1002CA363 /* earthcard.png in Resources */,
+				B8E77F4925C69ED200465849 /* sunandmoon.png in Resources */,
+				4D7C389D25C68AFE002CA363 /* suncard.png in Resources */,
+				B8E77F4A25C69ED200465849 /* Gaegu-Regular.ttf in Resources */,
+				4D7C38A325C68BEE002CA363 /* mooncard.png in Resources */,
+				B8E77F4F25C69ED200465849 /* Poppins-Regular.ttf in Resources */,
 				4D7C7AD925C55D6500945137 /* LaunchScreen.storyboard in Resources */,
+				B8E77F4C25C69ED200465849 /* Vector.png in Resources */,
 				4D7C7AD625C55D6500945137 /* Assets.xcassets in Resources */,
+				B8E77F4B25C69ED200465849 /* Gaegu-Bold.ttf in Resources */,
 				4D7C7AD425C55D6200945137 /* Main.storyboard in Resources */,
+				B8E77F5125C69ED200465849 /* Poppins-SemiBold.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -260,7 +335,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				4D7C7AD125C55D6200945137 /* ViewController.swift in Sources */,
+				4D7C388325C5A135002CA363 /* SunCardController.swift in Sources */,
+				4D7C38B725C68F36002CA363 /* MoonCardController.swift in Sources */,
 				4D7C7ACD25C55D6200945137 /* AppDelegate.swift in Sources */,
+				4D7C38BC25C68F58002CA363 /* EarthCardController.swift in Sources */,
+				B8E77F5B25C6A0BD00465849 /* HomeViewController.swift in Sources */,
+				B8E77F5625C6A04500465849 /* StartViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -366,7 +446,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 14.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.3;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -421,7 +501,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 14.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.3;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
@@ -439,6 +519,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = KP8Z4995SX;
 				INFOPLIST_FILE = Ignite/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.3;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -458,6 +539,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = KP8Z4995SX;
 				INFOPLIST_FILE = Ignite/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.3;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",

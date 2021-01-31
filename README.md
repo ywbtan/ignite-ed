@@ -1,4 +1,4 @@
-# ignite.ed
+# Ignite.ed
 This app intersects learning with augmented reality. We used the study of the sun, earth, and moon for our initial prototype. 
 Upon launching the app, you are able to pick a study module which will then bring you to the interactive AR experience.
 

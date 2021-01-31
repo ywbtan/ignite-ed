@@ -13,6 +13,7 @@ git clone https://github.com/ywbtan/ignite-ed.git
 5. Go to Signing & Capabilities Tab in Ignite File
 6. Go to Teams under Signing & Capabilities add an Apple ID then select your Apple Account
 7. Change your Bundle identifier to a unique identifier name
+For Example:
 ```bash
 Brandon-Tan.ignite
 ```

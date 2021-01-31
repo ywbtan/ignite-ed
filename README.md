@@ -12,12 +12,11 @@ git clone https://github.com/ywbtan/ignite-ed.git
 4. Plug your IOS Device(ARM64) into your PC/Laptop
 5. Go to Signing & Capabilities Tab in Ignite File
 6. Go to Teams under Signing & Capabilities add an Apple ID then select your Apple Account
-7. Change your Bundle identifier to a unique identifier name <br/>
-For Example:
+7. Change your Bundle identifier to a unique identifier name <br/>For Example:
 ```bash
 Brandon-Tan.ignite
 ```
-8.Go to General Tab then choose a compatible IOS version
+8. Go to General Tab then choose a compatible IOS version
 9. Build and run the App
 -> The app will be installed on your Iphone or IOS Device
 -> You can enjoy the app or uninstall it after use
